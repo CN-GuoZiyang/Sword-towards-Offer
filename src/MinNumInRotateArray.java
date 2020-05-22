@@ -17,7 +17,6 @@
 //        array[low] = 4 ;array[mid] = 4 ; array[high] = 6 ;
 //        如果high = mid - 1，就会产生错误， 因此high = mid
 //        但情形(1)中low = mid + 1就不会错误
-//TODO
 public class MinNumInRotateArray {
 
     public int minNumberInRotateArray(int [] array) {

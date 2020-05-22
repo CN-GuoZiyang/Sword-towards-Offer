@@ -1,6 +1,5 @@
 //
 //    快速幂原理
-//TODO
 public class PowerOfaValue {
 
     public double Power(double base, int exponent) {

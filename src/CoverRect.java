@@ -1,7 +1,6 @@
 
 //    斐波那契
 
-//TODO
 public class CoverRect {
 
     public int RectCover(int target) {
