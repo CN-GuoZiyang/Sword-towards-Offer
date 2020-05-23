@@ -1,6 +1,5 @@
 import java.util.Stack;
 
-// TODO
 public class OrderOfPushAndPop {
 
     public boolean IsPopOrder(int [] pushA,int [] popA) {

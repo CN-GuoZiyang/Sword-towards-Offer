@@ -1,6 +1,5 @@
 import java.util.Arrays;
 
-// TODO
 public class JudgePostOrderOfBST {
 
     public boolean VerifySquenceOfBST(int [] sequence) {
