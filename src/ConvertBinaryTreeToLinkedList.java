@@ -1,4 +1,3 @@
-//TODO
 public class ConvertBinaryTreeToLinkedList {
 
     private TreeNode last;

@@ -1,4 +1,3 @@
-// TODO
 public class MaxSumOfSuccessiveSubArray {
 
     public int FindGreatestSumOfSubArray(int[] array) {

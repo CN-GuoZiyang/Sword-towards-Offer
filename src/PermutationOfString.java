@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-//TODO
 public class PermutationOfString {
 
     private ArrayList<String> res = new ArrayList<>();
