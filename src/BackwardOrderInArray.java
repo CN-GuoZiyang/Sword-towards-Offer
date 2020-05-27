@@ -1,4 +1,3 @@
-//TODO
 public class BackwardOrderInArray {
 
     private int count = 0;

@@ -1,6 +1,5 @@
 import java.util.Stack;
 
-//TODO 利用长度解决
 public class CommonNodeInTwoLinkedList {
 
     public ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
