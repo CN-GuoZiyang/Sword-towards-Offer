@@ -1,4 +1,3 @@
-// TODO
 public class ConstructMultipleArray {
 
     public int[] multiply(int[] A) {
